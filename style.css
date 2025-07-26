@@ -1,0 +1,103 @@
+body{
+    background: gray;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#title{
+    text-align: center;
+    font-size: 10em;
+    margin-top: -1rem;
+    margin-bottom: -0.5rem;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#input{
+    display: block;
+    margin: 0 auto;
+    border-radius: 0.2rem;
+    padding: 0.2rem;
+}
+
+#input:disabled {
+    opacity: 1 !important;
+    background-color: white; !important;
+    border-radius: 0.2rem; !important;
+    border-color: black !important;
+    padding: 0.2rem; !important;
+}
+
+label{
+    text-align: center;
+    display: block;
+}
+
+#ul {
+    list-style: none;
+    text-align: center;
+    background: whitesmoke;
+    margin: 0 auto;
+    padding-left: 0px;
+    position: relative;
+    width: 11rem;
+    border-radius: 0.2rem;
+    z-index: 1000;
+    top: -1.3rem;
+    li{
+        padding: 0.27rem;
+        border-bottom: black 6px;
+        border-bottom: 1px solid;
+    }
+}
+
+#guessButton {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    z-index: 1;
+    top: 0.4rem;
+    border-radius: 0.2rem;
+    border: none;
+    width: 4rem;
+    height: 1.5rem;
+}
+
+#songTh{
+    width: 12rem;
+    padding: 8px;
+    border-bottom: 2px solid white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#albumTh{
+    width: 7.3rem;
+    border-bottom: 2px solid white;
+}
+
+#trackNoTh{
+    width: 6rem;
+    border-bottom: 2px solid white;
+}
+
+#trackLengthTh{
+    width: 8rem;
+    border-bottom: 2px solid white;
+}
+
+td {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+
+#table{
+    position: relative;
+    padding-top: 1rem;
+    margin: 0 auto;
+    z-index: 1;
+}

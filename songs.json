@@ -1,0 +1,619 @@
+{"songs": [
+  {
+    "songTitle": "Landmines",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 1,
+    "duration": "2:58",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Private",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 2,
+    "duration": "3:19",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Evitamento",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 3,
+    "duration": "3:11",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Who Can I Turn To",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 4,
+    "duration": "4:05",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Faithful",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 5,
+    "duration": "3:05",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Indigenous Freestyle",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 6,
+    "duration": "1:45",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Forevermore",
+    "album": "A Sinner's Recovery",
+    "trackNumber": 7,
+    "duration": "4:25",
+    "albumCover": "albums/boko-ASinnersRecovery.jpg",
+    "releaseDate": "2025-5-16"
+  },
+  {
+    "songTitle": "Your Life",
+    "album": "A Saint's Addiction",
+    "trackNumber": 1,
+    "duration": "3:15",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Dreamer",
+    "album": "A Saint's Addiction",
+    "trackNumber": 2,
+    "duration": "2:15",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Clean Up",
+    "album": "A Saint's Addiction",
+    "trackNumber": 3,
+    "duration": "2:14",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "IDK(no shi)",
+    "album": "A Saint's Addiction",
+    "trackNumber": 4,
+    "duration": "3:30",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Evasione",
+    "album": "A Saint's Addiction",
+    "trackNumber": 5,
+    "duration": "4:00",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Addiction",
+    "album": "A Saint's Addiction",
+    "trackNumber": 6,
+    "duration": "4:15",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Smoke break",
+    "album": "A Saint's Addiction",
+    "trackNumber": 7,
+    "duration": "0:08",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Curtain Closer",
+    "album": "A Saint's Addiction",
+    "trackNumber": 8,
+    "duration": "2:16",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "soon i'll be gone",
+    "album": "A Saint's Addiction",
+    "trackNumber": 9,
+    "duration": "2:07",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Check your grave",
+    "album": "A Saint's Addiction",
+    "trackNumber": 10,
+    "duration": "3:04",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Fallen",
+    "album": "A Saint's Addiction",
+    "trackNumber": 11,
+    "duration": "3:16",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Thirty Split",
+    "album": "A Saint's Addiction",
+    "trackNumber": 12,
+    "duration": "3:13",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "So Far(Down)",
+    "album": "A Saint's Addiction",
+    "trackNumber": 13,
+    "duration": "1:50",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Trueseeker",
+    "album": "A Saint's Addiction",
+    "trackNumber": 14,
+    "duration": "2:47",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Survivor's Guilt",
+    "album": "A Saint's Addiction",
+    "trackNumber": 15,
+    "duration": "3:27",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "The Sign",
+    "album": "A Saint's Addiction",
+    "trackNumber": 16,
+    "duration": "2:57",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "Beautiful Death",
+    "album": "A Saint's Addiction",
+    "trackNumber": 17,
+    "duration": "5:22",
+    "albumCover": "albums/boko-ASaintsAddiction.jpg",
+    "releaseDate": "2024-11-02"
+  },
+  {
+    "songTitle": "MAN",
+    "album": "MAN&GOD",
+    "trackNumber": 1,
+    "duration": "3:56",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Grave Digger",
+    "album": "MAN&GOD",
+    "trackNumber": 2,
+    "duration": "2:19",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Haymaker",
+    "album": "MAN&GOD",
+    "trackNumber": 3,
+    "duration": "2:30",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "One of Few",
+    "album": "MAN&GOD",
+    "trackNumber": 4,
+    "duration": "2:11",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "What u On?",
+    "album": "MAN&GOD",
+    "trackNumber": 5,
+    "duration": "2:51",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Bow",
+    "album": "MAN&GOD",
+    "trackNumber": 6,
+    "duration": "2:52",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Off The Amp",
+    "album": "MAN&GOD",
+    "trackNumber": 7,
+    "duration": "2:42",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Dry Rain",
+    "album": "MAN&GOD",
+    "trackNumber": 8,
+    "duration": "4:31",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Clean",
+    "album": "MAN&GOD",
+    "trackNumber": 9,
+    "duration": "1:32",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Spoiled/Chance",
+    "album": "MAN&GOD",
+    "trackNumber": 10,
+    "duration": "3:12",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Power",
+    "album": "MAN&GOD",
+    "trackNumber": 11,
+    "duration": "3:05",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "King of The Hill",
+    "album": "MAN&GOD",
+    "trackNumber": 12,
+    "duration": "2:32",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "The Nights",
+    "album": "MAN&GOD",
+    "trackNumber": 13,
+    "duration": "3:25",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Bless",
+    "album": "MAN&GOD",
+    "trackNumber": 14,
+    "duration": "2:06",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "MAN&GOD",
+    "album": "MAN&GOD",
+    "trackNumber": 15,
+    "duration": "3:30",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "covet",
+    "album": "MAN&GOD",
+    "trackNumber": 16,
+    "duration": "4:28",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "false witness",
+    "album": "MAN&GOD",
+    "trackNumber": 17,
+    "duration": "2:17",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "adultery",
+    "album": "MAN&GOD",
+    "trackNumber": 18,
+    "duration": "3:51",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "protect",
+    "album": "MAN&GOD",
+    "trackNumber": 19,
+    "duration": "2:54",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "honour",
+    "album": "MAN&GOD",
+    "trackNumber": 20,
+    "duration": "3:10",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "steal",
+    "album": "MAN&GOD",
+    "trackNumber": 21,
+    "duration": "3:12",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "sabbath interlude",
+    "album": "MAN&GOD",
+    "trackNumber": 22,
+    "duration": "1:23",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "vain",
+    "album": "MAN&GOD",
+    "trackNumber": 23,
+    "duration": "2:13",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "graven",
+    "album": "MAN&GOD",
+    "trackNumber": 24,
+    "duration": "2:33",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "before me",
+    "album": "MAN&GOD",
+    "trackNumber": 25,
+    "duration": "2:44",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "GOD",
+    "album": "MAN&GOD",
+    "trackNumber": 26,
+    "duration": "2:56",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "& when it all turns grey",
+    "album": "MAN&GOD",
+    "trackNumber": 27,
+    "duration": "1:48",
+    "albumCover": "albums/boko-MAN&GOD.png",
+    "releaseDate": "2024-03-02"
+  },
+  {
+    "songTitle": "Layer 1",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 1,
+    "duration": "1:52",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "A Toast 2 Your Proof",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 2,
+    "duration": "1:37",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "One Hell Of A Night",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 3,
+    "duration": "4:48",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "2 Sided Dollar Bill",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 4,
+    "duration": "2:18",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "2nd Layer Of Love",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 5,
+    "duration": "4:48",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Layer 2",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 6,
+    "duration": "2:06",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Love 4 The Streets",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 7,
+    "duration": "1:48",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "The Influence",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 8,
+    "duration": "2:15",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Nothing But Me",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 9,
+    "duration": "2:48",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "INDSTL INTRLD",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 10,
+    "duration": "0:14",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Criminal Culture",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 11,
+    "duration": "1:58",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Nine Times",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 12,
+    "duration": "2:54",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Pride Flow",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 13,
+    "duration": "3:25",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Gone",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 14,
+    "duration": "2:05",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "Retribution II",
+    "album": "2 Layers 2 Deep",
+    "trackNumber": 15,
+    "duration": "3:59",
+    "albumCover": "albums/boko-2Layers2Deep.png",
+    "releaseDate": "2023-11-11"
+  },
+  {
+    "songTitle": "New-Clothes",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 1,
+    "duration": "3:08",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Torn-Fabric",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 2,
+    "duration": "1:46",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "CDD-INTERLUDE",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 3,
+    "duration": "2:15",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Final-Straw",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 4,
+    "duration": "1:22",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "RE-DO",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 5,
+    "duration": "3:03",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Break-The-Mold",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 6,
+    "duration": "2:22",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Session.001",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 7,
+    "duration": "2:55",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "highway-2-change",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 8,
+    "duration": "2:05",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Session.002",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 9,
+    "duration": "3:10",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Mr-Me",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 10,
+    "duration": "3:39",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  },
+  {
+    "songTitle": "Retribution",
+    "album": "A-Compact-Masterpiece",
+    "trackNumber": 11,
+    "duration": "1:32",
+    "albumCover": "albums/boko-ACM.png",
+    "releaseDate": "2023-07-05"
+  }
+]
+}
